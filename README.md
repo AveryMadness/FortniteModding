@@ -10,6 +10,6 @@ Before trying out the examples below. Please follow [The Basics](Basics.md).
   - [Box Trigger](Examples/BoxTrigger.md)
   - [Kevin the Cube Material](Examples/CubeMaterial.md)
   - [Minecraft Block Material](Examples/MinecraftBlockMaterial.md)
-  - [Minecraft World Generation](Examples/MinecraftWorldGeneration)
+  - [Minecraft World Generation](Examples/MinecraftWorldGeneration.md)
   - [Level Sequences](Examples/LevelSequences.md)
   - [CPP](Examples/CPP.md)
